@@ -1,0 +1,2 @@
+﻿Note that, before you can use a newly compiled screen saver, you must change its extension from .EXE to .SCR, and copy it to the Windows system directory (by default, in WinXP this is "C:\Windows\System32").
+
